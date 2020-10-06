@@ -5,5 +5,5 @@ def find_even_values(src)
   row_index=0
 while  row_index< find_even_values.length do
   element_index=0 
-  while element_index
+  while element_index< find_even_values[row_index]
 end
